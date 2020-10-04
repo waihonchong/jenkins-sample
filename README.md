@@ -57,3 +57,6 @@ Jenkins sample pipeline
 
 ### Application deployed
 <img src="screenshots/jenkins/7-Application-deployed.png" alt="Application deployed"/>
+
+### Also is possible to use the Jenkinsfile
+<img src="screenshots/jenkins/8-Using-Jenkinsfile.png" alt="Using Jenkinsfile"/>
