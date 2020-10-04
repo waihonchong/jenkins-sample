@@ -34,3 +34,26 @@ Jenkins sample pipeline
 
 ### Give full control to IUSR
 <img src="screenshots/iis/8-Give-full-control-to-IUSR.png" alt="Give full control to IUSR"/>
+
+## Jenkins Configuration
+
+### Click on New Item
+<img src="screenshots/jenkins/1-Click-on-New-Item.png" alt="Click on New Item"/>
+
+### Create the Pipeline
+<img src="screenshots/jenkins/2-Create-the-Pipeline.png" alt="Create the Pipeline"/>
+
+### Click on Configure
+<img src="screenshots/jenkins/3-Click-on-Configure.png" alt="Click on Configure"/>
+
+### Paste the <a href="https://github.com/henriq-toledo/jenkins-sample/blob/main/Jenkinsfile%20-%20Pipeline%20Script.groovy">Pipeline Script</a>, click on Apply and then Save
+<img src="screenshots/jenkins/4-Paste-the-Pipeline-Script.png" alt="Paste the Pipeline Script"/>
+
+### Click on Build Now to start
+<img src="screenshots/jenkins/5-Build-running-on-Jenkins.png" alt="Build running on Jenkins"/>
+
+### Build finished
+<img src="screenshots/jenkins/6-Build-finished.png" alt="Build finished"/>
+
+### Application deployed
+<img src="screenshots/jenkins/7-Application-deployed.png" alt="Application deployed"/>
